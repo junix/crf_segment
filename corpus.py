@@ -1,4 +1,3 @@
-from itertools import chain, islice
 from collections import Counter
 
 _training_data = "/Users/junix/nlp/icwb2-data/training/msr_training.utf8"
